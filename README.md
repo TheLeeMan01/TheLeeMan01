@@ -5,7 +5,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/i_am_hajilee)
 [<img src="https://komarev.com/ghpvc/?username=TheLeeMan01&label=Profile%20views&color=0e75b6&style=flat" alt="TheLeeMan01" />](https://github.com/TheLeeMan01/TheLeeMan01)
 
-I am a Web Developer, Digital Markter, with experience in building web applications or mobile application, marketting and promotion for small and mediun sized businesses.
+I am a Web Developer, Digital Marketer, with experience in building web applications or mobile application, marketing and promotion for small and medium sized.
 
 - 🌱 I’m looking to collaborate with developers in building great ideas
 - 👯 I’m looking to collaborate on any open source projects
